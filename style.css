@@ -16,6 +16,6 @@ h1 {
     border: 2px solid rgb(156, 156, 156); /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border */
 img {
-  width: 100%; /* or any specific pixel value */
+  width: 170%; /* or any specific pixel value */
   height: auto;
 }
